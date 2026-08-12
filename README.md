@@ -1,5 +1,6 @@
 # privado---projetos
 
+```text
 
 TerraSense-JavaScript/
 ├── App.js
@@ -34,6 +35,7 @@ TerraSense-JavaScript/
     └── styles/
         └── colors.js
 
+```
 
 
 
