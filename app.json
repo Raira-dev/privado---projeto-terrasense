@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "TerraSense",
+    "slug": "terrasense",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.terrasense.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.terrasense.app"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+export const colors = {
+  light: {
+    background: "#FFFFFF",
+    lavender: "#C8B9F5",
+    purple: "#8170D4",
+    purpleDark: "#6857B8",
+    green: "#2F8068",
+    greenLight: "#DDF1D8",
+    mint: "#DDECE7",
+    cream: "#F4EEEE",
+    beige: "#F0E8D8",
+    text: "#171717",
+    muted: "#6D6D6D",
+    white: "#FFFFFF",
+    black: "#000000",
+    border: "#B7B7B7",
+    red: "#F44336",
+    yellow: "#F5C542",
+    good: "#55B85A"
+  },
+  dark: {
+    background: "#16151C",
+    lavender: "#514775",
+    purple: "#8E7AE0",
+    purpleDark: "#6F5BC0",
+    green: "#3B9278",
+    greenLight: "#29452D",
+    mint: "#2B3D39",
+    cream: "#282126",
+    beige: "#332E27",
+    text: "#F5F5F5",
+    muted: "#B7B7B7",
+    white: "#FFFFFF",
+    black: "#000000",
+    border: "#555555",
+    red: "#FF665C",
+    yellow: "#E8C04A",
+    good: "#66C56A"
+  }
+};

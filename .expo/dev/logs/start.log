@@ -1,0 +1,18 @@
+{"_e":"root:init","_t":1786668405455,"format":"v0-jsonl","version":"57.0.14"}
+{"_e":"env:mode","_t":1786668405455,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1786668405456,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1786668405558,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1786668405752,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1786668405857,"plugins":[]}
+{"_e":"metro:instantiate","_t":1786668406035,"atlas":false,"workers":7,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1786668407962,"id":"1","platform":"web","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1786668407962,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786668407964,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1786668408065,"id":"1","progress":0.9850189383232516,"total":133,"current":132}
+{"_e":"metro:bundling:progress","_t":1786668408282,"id":"1","progress":0.999,"total":133,"current":133}
+{"_e":"metro:bundling:progress","_t":1786668408383,"id":"1","progress":0.999,"total":206,"current":203}
+{"_e":"metro:bundling:progress","_t":1786668408528,"id":"1","progress":0.999,"total":206,"current":204}
+{"_e":"metro:bundling:done","_t":1786668408591,"id":"1","total":206,"ms":628.702375}
+{"_e":"metro:client_log","_t":1786668408671,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1786668408672,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1786668408673,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
